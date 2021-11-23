@@ -18,5 +18,5 @@ Installation
 
 ==========================================================================
 Contributor: chenjhbio
-If you use the codes, please kindly cited the Research paper "Landscape of PFOA-Induced Liver Injury Revealed by Mouse Liver Cell Atlas"
+If you use the codes, please kindly cited the Research paper "Landscape of PFOA-Induced Liver Injury Revealed by Mouse Liver Cell Atlas" </br>
 Any questions and problems, you're welcome to contact chen.junhui@szhospital.com
