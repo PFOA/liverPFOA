@@ -14,7 +14,7 @@ Installation
  cd  liverPFOA<br/>
  Notably: 
  The codes need python >3.6 and R >4.0, and responding packages, and then you can step by step to run the pipe
- for you sinle cell analysis.
+ for your sinle cell analysis.
 
 ==========================================================================
 Contributor: chenjhbio
